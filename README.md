@@ -11,8 +11,8 @@ Typically I'm on here to find 3DS homebrew, but I'm getting ready to start some 
 ## What coding experience do you have?
 Very little GApps Script, amateur text-based Python, pretty good Scratch, absolutely garbage C#, and great RPG Maker MV (RMMV).
 
-## Can you do something for me?
-I do not commission anything, and I probably won't. (I think that's against the Github ToS). I can precompile stuff (if that's allowed.)
+## What are you working on?
+Right now I have a project that is almost ready to be put on Github. It'll be completely open-source and ready for use by anyone. 
 
 ## Personal Task List
 - [x] Set up Github account
