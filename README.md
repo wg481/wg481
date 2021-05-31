@@ -20,7 +20,7 @@ Right now I have a project that is almost ready to be put on Github. It'll be co
  - [BootNTR by Nanquitas](https://github.com/Nanquitas/BootNTR)
  - [GodMode9 by d0k3](https://github.com/d0k3/GodMode9)
  - [EasyRPG Player by EasyRPG](https://github.com/EasyRPG/Player)
- - [Thundering Sky by nitrodragon, yoshimelon24, and Ethah Barker](https://github.com/nitrodragon/ThunderingSky)
+ - [Thundering Sky by nitrodragon, yoshimelon24, and Ethan Barker](https://github.com/nitrodragon/ThunderingSky)
  - [FBI Title Manager by Steveice10 and team](https://github.com/Steveice10/FBI)
  - [New Homebrew Menu by fincs and team](https://github.com/fincs/new-hbmenu)
  - [wumiibo Amiibo Emulator by haxokartik and team](https://github.com/hax0kartik/wumiibo)
