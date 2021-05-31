@@ -11,7 +11,8 @@ Typically I'm on here to find 3DS homebrew, but I'm getting ready to start some 
 Very little GApps Script, amateur text-based Python, pretty good Scratch, absolutely garbage C#, and great RPG Maker MV (RMMV).
 
 ## What are you working on?
-Right now I have a project that is almost ready to be put on Github. It'll be completely open-source and ready for use by anyone. 
+Right now I have a project that is almost ready to be put on Github. It'll be completely open-source and ready for use by anyone.<br>
+I began some modernization work on @nitrodragon's *Thundering Sky* project. Check out my fork [here](https://github.com/wg481/ThunderingSky)
 
 ## What projects do you like?
  - [GYTB by MrCheeze](https://github.com/MrCheeze/GYTB)
