@@ -8,7 +8,7 @@
 Typically I'm on here to find 3DS homebrew, but I'm getting ready to start some projects in Github repo's.
 
 ## What coding experience do you have?
-Very little GApps Script, amateur text-based Python, pretty good Scratch, absolutely garbage C#, and great RPG Maker MV (RMMV).
+Very little GApps Script, amateur text-based Python, pretty good Scratch, absolutely garbage C#, great RPG Maker MV (RMMV), and I dabble a bit in Java.
 
 ## What are you working on?
 Right now I have a project that is almost ready to be put on Github. It'll be completely open-source and ready for use by anyone.<br>
