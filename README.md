@@ -17,9 +17,13 @@ Right now I have a project that is almost ready to be put on Github. It'll be co
  - [GYTB by MrCheeze](https://github.com/MrCheeze/GYTB)
  - [Luma3DS by LumaTeam](https://github.com/LumaTeam/Luma3DS)
  - [Nanquitas 3GX-Enabled Luma3DS by Nanquitas](https://github.com/Nanquitas/Luma3DS)
+ - [BootNTR by Nanquitas](https://github.com/Nanquitas/BootNTR)
  - [GodMode9 by d0k3](https://github.com/d0k3/GodMode9)
  - [EasyRPG Player by EasyRPG](https://github.com/EasyRPG/Player)
- - [Thundering Sky by nitrodragon](https://github.com/nitrodragon/ThunderingSky)
+ - [Thundering Sky by nitrodragon, yoshimelon24, and Ethah Barker](https://github.com/nitrodragon/ThunderingSky)
+ - [FBI Title Manager by Steveice10 and team](https://github.com/Steveice10/FBI)
+ - [New Homebrew Menu by fincs and team](https://github.com/fincs/new-hbmenu)
+ - [wumiibo Amiibo Emulator by haxokartik and team](https://github.com/hax0kartik/wumiibo)
 
 ## Personal Task List
 - [x] Set up Github account
