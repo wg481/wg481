@@ -1,4 +1,4 @@
-
+![Logo](https://lh5.googleusercontent.com/FHthT4kEVng0wT0on62iMklt-pLXLc-WORasA6sGAFC1czARg_IgXqHgxZo6G7fwy8FPXecqY1CroXI5IplynoM=w1280)
 # Hi, I’m @wg481
 - I’m interested in learning more about C/C# to create a Turn Based RPG in Unity3D.
 - I’m learning C#, RMMV, and how to better my 3DS. I'm not as active in the first one, but I'm getting there.
