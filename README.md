@@ -15,12 +15,12 @@ Very little GApps Script, amateur text-based Python, pretty good Scratch, absolu
 Right now I have a project that is almost ready to be put on Github. It'll be completely open-source and ready for use by anyone. 
 
 ## What projects do you like?
-[GYTB](https://github.com/MrCheeze/GYTB)
-[Luma3DS](https://github.com/LumaTeam/Luma3DS)
-[Nanquitas 3GX-Enabled Luma3DS](https://github.com/Nanquitas/Luma3DS)
-[GodMode9](https://github.com/d0k3/GodMode9)
-[EasyRPG Player](https://github.com/EasyRPG/Player)
-[Thundering Sky](https://github.com/nitrodragon/ThunderingSky)
+ - [GYTB by MrCheeze](https://github.com/MrCheeze/GYTB)
+ - [Luma3DS by LumaTeam](https://github.com/LumaTeam/Luma3DS)
+ - [Nanquitas 3GX-Enabled Luma3DS by Nanquitas](https://github.com/Nanquitas/Luma3DS)
+ - [GodMode9 by d0k3](https://github.com/d0k3/GodMode9)
+ - [EasyRPG Player by EasyRPG](https://github.com/EasyRPG/Player)
+ - [Thundering Sky by nitrodragon](https://github.com/nitrodragon/ThunderingSky)
 
 ## Personal Task List
 - [x] Set up Github account
