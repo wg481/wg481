@@ -24,6 +24,7 @@ Right now I have a project that is almost ready to be put on Github. It'll be co
  - [FBI Title Manager by Steveice10 and team](https://github.com/Steveice10/FBI)
  - [New Homebrew Menu by fincs and team](https://github.com/fincs/new-hbmenu)
  - [wumiibo Amiibo Emulator by haxokartik and team](https://github.com/hax0kartik/wumiibo)
+ - [boot9strap by SciresM and team](https://github.com/SciresM/boot9strap)
 
 ## Personal Task List
 - [x] Set up Github account
