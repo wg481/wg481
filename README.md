@@ -1,14 +1,13 @@
 # Hi, I’m @wg481
-- I’m bored so I made a GitHub.
 
 ## What do you do?
-Post a terminal concept.
+My best.
 
 ## What coding experience do you have?
-Text based Python baby B)
+Python 2.7/3.x, C#
 
 ## What are you working on?
-VANVA Xenolith Edition.
+[Floplaunch](https://github.com/wg481/floplaunch)
 
 ## What projects do you like?
  - [GYTB by MrCheeze](https://github.com/MrCheeze/GYTB)
