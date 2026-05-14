@@ -8,6 +8,7 @@ Python 2.7/3.x, C#
 
 ## What are you working on?
 [Floplaunch](https://github.com/wg481/floplaunch)
+[Relationship Tracker for RPG MAKER MZ](https://github.com/wg481/relationship-manager-mz)
 
 ## What projects do you like?
  - [GYTB by MrCheeze](https://github.com/MrCheeze/GYTB)
